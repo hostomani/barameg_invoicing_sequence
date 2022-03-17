@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_barameg_invoicing_sequence_barameg_invoicing_sequence,barameg_invoicing_sequence.barameg_invoicing_sequence,model_barameg_invoicing_sequence_barameg_invoicing_sequence,base.group_user,1,1,1,1
